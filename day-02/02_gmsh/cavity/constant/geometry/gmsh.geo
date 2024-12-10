@@ -37,7 +37,7 @@ Extrude {0, 0, 0.1} {
 Physical Surface("top") = {117};
 Physical Surface("bottom") = {109};
 Physical Surface("inlet") = {121};
-Physical Surface("outlet") = {131};
+Physical Surface("outlet") = {113};
 
 //Define physical volumes - numeric designations from GUI
 Physical Volume("internal") = {1};
